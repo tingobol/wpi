@@ -3,13 +3,34 @@
             "Name_exe"		 : "winrar-x64-624es", 			
             "Instalado_path" : "",
 			"Version_final"  : "6.24",
-            "Description" 	 : "", 			
+            "Description" 	 : "WinRAR 6.24 para Windows x64 (Español)",
+ 			"date_pub"       : "6 de Octubre de 2023",
             "Url_size"       : "3692112" ,
-			"Url_download"	 : "https://github.com/tingobol/wpi/main/winrar-x64-624es.exe",
+			"Url_download"	 : "https://github.com/tingobol/wpi/raw/main/WinRar/winrar-x64-624es.exe",
             "Flag1"		     : "1", 			
             "Flag2"          : "/S",
 			"Flag3"          : "2",
 			"Flag4"          : "",
 			"Flag5"          : "",
-			"ImageIndex"     : "19"
+			"ImageIndex"     : "1"
         },
+		
+		
+		
+	
+	
+			"AnyDesk":{   
+            "Name_search"	 : "AnyDesk",
+            "Name_exe"		 : "anydesk.exe", 			
+            "Instalado_path" : "",
+			"Version_final"  : "8.0.8",
+            "Description" 	 : "",
+			"date_pub"       : "07 de Marzo de 2024", 			
+            "Url_size"       : "" ,
+			"Url_download"	 : "https://download.anydesk.com/AnyDesk.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "--install \"C:\\Program Files (x86)\\AnyDesk\" --start-with-win --create-shortcuts --create-desktop-icon --silent",
+			"Flag3"          : "2",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "2"

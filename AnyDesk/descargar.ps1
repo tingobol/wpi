@@ -1,0 +1,1 @@
+ Invoke-WebRequest 'https://download.anydesk.com/AnyDesk.exe' -OutFile 'C:\Users\HP\Documents\GitHub\wpi\AnyDesk\AnyDesk.exe'
