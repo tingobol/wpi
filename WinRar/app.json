@@ -1,0 +1,15 @@
+"Winrar":{   
+            "Name_search"	 : "winrar",
+            "Name_exe"		 : "winrar-x64-624es", 			
+            "Instalado_path" : "",
+			"Version_final"  : "6.24",
+            "Description" 	 : "", 			
+            "Url_size"       : "3692112" ,
+			"Url_download"	 : "https://github.com/tingobol/wpi/main/winrar-x64-624es.exe",
+            "Flag1"		     : "1", 			
+            "Flag2"          : "/S",
+			"Flag3"          : "2",
+			"Flag4"          : "",
+			"Flag5"          : "",
+			"ImageIndex"     : "19"
+        },
