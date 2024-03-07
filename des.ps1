@@ -17,7 +17,8 @@ $TotalUrls = $urls.Count
 $Counter = 0
 ForEach($URL in $Urls)
 {
-    $FileName = [System.IO.Path]::GetFileName($url)  # Extract file name from URL
+    $FileName = [System.IO.Path]::GetFileName($url)  
+    # Extract file name from URL
     $DestinationPath = Join-Path -Path $DestinationFolder -ChildPath $FileName
  
     # Display main progress
